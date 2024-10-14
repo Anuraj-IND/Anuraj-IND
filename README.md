@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anuraj-IND
-- 👀 I’m interested in programming (im a beginner)
+
 
 
 <!---
