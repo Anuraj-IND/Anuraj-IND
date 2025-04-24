@@ -1,4 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Anuraj Maddheshiya!</h1>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F1FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Anuraj+Maddheshiya;Web+App+Developer+%F0%9F%92%BB;MERN+%7C+Django+%7C+FastAPI" 
+    alt="Typing SVG" 
+    style="max-width: 100%; display: block; margin: auto;" 
+  />
+</h1>
 <p align="center">
   🚀 Web App Developer | 💻 MERN Stack | 🐍 Django | ⚡ FastAPI <br/>
   🎓 BTech Student | 👨‍💻 Always Learning, Always Building
