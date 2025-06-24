@@ -66,7 +66,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anuraj-IND&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Anuraj-IND&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
